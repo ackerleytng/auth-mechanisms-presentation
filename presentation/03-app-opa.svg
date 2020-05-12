@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="145.78583mm"
+   height="92.869164mm"
+   viewBox="0 0 145.78583 92.869164"
+   version="1.1"
+   id="svg944"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="03-app-opa.svg">
+  <defs
+     id="defs938">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1866"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1864"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1553"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="363.8888"
+     inkscape:cy="118.71422"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:window-width="2556"
+     inkscape:window-height="1401"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1515"
+       originx="-26.325834"
+       originy="-13.096667" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata941">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.325833,-13.096667)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1910"
+       width="145.52083"
+       height="92.604164"
+       x="26.458332"
+       y="13.229166" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1521"
+       width="39.6875"
+       height="26.458332"
+       x="119.06251"
+       y="66.145836" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="121.70835"
+       y="74.083336"
+       id="text1525"><tspan
+         sodipodi:role="line"
+         id="tspan1523"
+         x="121.70835"
+         y="74.083336"
+         style="stroke-width:0.264583">Application</tspan></text>
+    <rect
+       y="26.458334"
+       x="79.375015"
+       height="26.458332"
+       width="26.458319"
+       id="rect1542"
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round" />
+    <text
+       id="text1546"
+       y="34.395832"
+       x="82.020859"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="34.395832"
+         x="82.020859"
+         id="tspan1544"
+         sodipodi:role="line">OPA</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 39.687499,79.374999 H 119.0625"
+       id="path1548" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:0.85;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="89.958344"
+       y="58.208328"
+       id="text1906"><tspan
+         sodipodi:role="line"
+         id="tspan1904"
+         x="89.958344"
+         y="58.208328"
+         style="font-size:4.23333px;stroke-width:0.264583">All requests are </tspan><tspan
+         sodipodi:role="line"
+         x="89.958344"
+         y="62.406395"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         id="tspan1908">still checked</tspan><tspan
+         id="tspan953"
+         sodipodi:role="line"
+         x="89.958344"
+         y="66.604462"
+         style="font-size:4.23333px;stroke-width:0.264583">by OPA</tspan><tspan
+         id="tspan1001"
+         sodipodi:role="line"
+         x="89.958344"
+         y="70.802521"
+         style="font-size:4.23333px;stroke-width:0.264583">(middleware </tspan><tspan
+         id="tspan1003"
+         sodipodi:role="line"
+         x="89.958344"
+         y="75.000587"
+         style="font-size:4.23333px;stroke-width:0.264583">or otherwise)</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path945"
+       d="M 119.0625,79.375 C 142.875,58.208333 124.35417,39.6875 105.83333,39.687501"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1866)" />
+    <text
+       id="text961"
+       y="51.59375"
+       x="133.61456"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:0.85;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="51.59375"
+         x="133.61456"
+         sodipodi:role="line"
+         id="tspan959">But app can add</tspan><tspan
+         id="tspan970"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="55.791817"
+         x="133.61456"
+         sodipodi:role="line">data for OPA to </tspan><tspan
+         id="tspan974"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         y="59.98988"
+         x="133.61456"
+         sodipodi:role="line">make a decision</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.9389px;line-height:0.85;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="120.38539"
+       y="25.135416"
+       id="text982"><tspan
+         sodipodi:role="line"
+         x="120.38539"
+         y="25.135416"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         id="tspan980">App can also </tspan><tspan
+         id="tspan989"
+         sodipodi:role="line"
+         x="120.38539"
+         y="29.333481"
+         style="font-size:4.23333px;stroke-width:0.264583">dynamically </tspan><tspan
+         id="tspan991"
+         sodipodi:role="line"
+         x="120.38539"
+         y="33.531548"
+         style="font-size:4.23333px;stroke-width:0.264583">update rules</tspan><tspan
+         id="tspan993"
+         sodipodi:role="line"
+         x="120.38539"
+         y="37.72961"
+         style="font-size:4.23333px;stroke-width:0.264583">in OPA</tspan></text>
+  </g>
+</svg>
