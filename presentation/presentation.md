@@ -13,8 +13,8 @@ Our current prototype setup accomplishes the following:
   using apps via the browser, or calling APIs via curl. 
 
 > At the same time, want flexibility for teams to add on additional
-> decentralised authz policies where needed (e.g. k2o implementing app-level
-> permissions that wouldn't be feasible to manage centrally).
+decentralised authz policies where needed (e.g. k2o implementing app-level
+permissions that wouldn't be feasible to manage centrally).
 
 ---
 
