@@ -227,7 +227,7 @@ Even whitelisted paths should first go to OPA for a decision to be made.
 
 + Keycloak auth services is a Keycloak-provided service
 + Libraries/adapters are provided for apps to connect to keycloak to ask yes/no
-    + 1st-party Java adapter support, 3rd party
+    + 1st-party Java adapter support, community-maintained python library
     + Every call to the app requires an external call to Keycloak, barring
       caching
 + Pros: UI and API for managing the auth policies at keycloak
