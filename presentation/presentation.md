@@ -6,11 +6,11 @@ Our current prototype setup accomplishes the following:
 
 + **Centralised authn (i.e. SSO):** Apps can integrate with SSO with minimal
   effort -- they just need to register their app on the API gateway without
-  client libraries. 
+  client libraries.
 
 + **Mostly centralised authz with some decentralisation:** Want centralised
   authz so a user's group, roles and privileges follows them whether they're
-  using apps via the browser, or calling APIs via curl. 
+  using apps via the browser, or calling APIs via curl.
 
 > At the same time, want flexibility for teams to add on additional
 decentralised authz policies where needed (e.g. k2o implementing app-level
@@ -20,7 +20,7 @@ permissions that wouldn't be feasible to manage centrally).
 
 # Proposal
 
-+ Use OAuth for authorization, and OpenID Connect for authentication 
++ Use OAuth for authorization, and OpenID Connect for authentication
 
 > (TLDR: Token-based authorization)
 
@@ -54,6 +54,7 @@ permissions that wouldn't be feasible to manage centrally).
 <center><img src="00-key-shift.svg" width="80%" /></center>
 
 ???
+
 + The use of tokens for authorization purposes
 + If no token is presented, callers first get a token, and then all
   authorization is done based on tokens
